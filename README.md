@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelpog" alt="joelpog" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@joerucodes" target="blank"><img src="https://img.shields.io/twitter/follow/@joerucodes?logo=twitter&style=for-the-badge" alt="@joerucodes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/joerucodes" target="blank"><img src="https://img.shields.io/twitter/follow/joerucodes?logo=twitter&style=for-the-badge" alt="joerucodes" /></a> </p>
 
 - 🔭 I’m currently working on **Twitter clone**
 
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joelpog&show_icons=true&locale=en" alt="joelpog" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelpog&" alt="joelpog" /></p>
-
